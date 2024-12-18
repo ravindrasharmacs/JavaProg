@@ -6,7 +6,7 @@ public class Main {
 
         int[] mergedArray = mergeArrays(arr1, arr2);
         for (int i = 0; i < mergedArray.length; i++) {
-            System.out.print(mergedArray[i] + " ");
+            System.out.print(mergedArray[i] + " ");//
         }
     }
 
